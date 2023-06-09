@@ -1,0 +1,16 @@
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\zadacha6\zadacha6\bin\Debug\zadacha6.exe.config
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\zadacha6\zadacha6\bin\Debug\zadacha6.exe
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\zadacha6\zadacha6\bin\Debug\zadacha6.pdb
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\zadacha6\zadacha6\bin\Debug\EntityFramework.dll
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\zadacha6\zadacha6\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\zadacha6\zadacha6\bin\Debug\EntityFramework.xml
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\zadacha6\zadacha6\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\zadacha6\zadacha6\obj\Debug\zadacha6.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\zadacha6\zadacha6\obj\Debug\zadacha6.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\zadacha6\zadacha6\obj\Debug\zadacha6.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\zadacha6\zadacha6\obj\Debug\zadacha6.csproj.CopyComplete
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\zadacha6\zadacha6\obj\Debug\zadacha6.exe
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\zadacha6\zadacha6\obj\Debug\zadacha6.pdb
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\zadacha6\zadacha6\obj\Debug\zadacha6.Migrations.AnimalM.resources
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\zadacha6\zadacha6\obj\Debug\zadacha6.csproj.GenerateResource.cache
+C:\Users\STUDENTS-STEM-1\Desktop\11A Anna Nikolova\zadacha6\zadacha6\obj\Debug\zadacha6.Form1.resources
